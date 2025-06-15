@@ -1,0 +1,7 @@
+{
+  "id": "req001",
+  "imp": [{"id": "imp100"}],
+  "site": {"domain": "example.com"},
+  "device": {"ip": "192.0.2.1"},
+  "user": {"id": "user123"}
+}
