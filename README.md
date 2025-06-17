@@ -1,8 +1,3 @@
-Sure! Here's the complete and polished **`README.md`** file for your GitHub repository. You can copy and paste this directly into your `README.md`:
-
----
-
-````markdown
 # 🧠 Real-Time Bidding DSP Simulation Project
 
 This is a simulation of a **Demand-Side Platform (DSP)** for programmatic advertising. It demonstrates real-time bidding, cloud-native logging, scalable analytics, and automated reporting.
@@ -50,7 +45,7 @@ Built as part of an evaluation project, this solution includes:
 
 ```bash
 uvicorn main:app --reload
-````
+
 
 * Visit: `http://localhost:8000/docs` to access Swagger UI
 * Use POST requests to `/bid` using Swagger or Postman
